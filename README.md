@@ -15,4 +15,4 @@ The demo shows a task failing twice with temporary `503` errors, being retried w
 ## Links
 
 - [Design notes](./DESIGN.md)
-- [Demo output](./pis/OUTPUT.md)
+- [Demo output](https://github.com/isthatgopro/pis/blob/main/OUTPUT.md)
