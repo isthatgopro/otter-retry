@@ -1,0 +1,580 @@
+{
+  "result": "pending",
+  "started_at": "2026-04-27T12:09:18.021630Z",
+  "modified_at": "2026-04-29T05:54:40.528106",
+  "log": [],
+  "steps": {
+    "pis_biosample": {
+      "name": "biosample",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_baseline_expression": {
+      "name": "baseline_expression",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_clinical_report": {
+      "name": "clinical_report",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_disease": {
+      "name": "disease",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_drug": {
+      "name": "drug",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_impc": {
+      "name": "impc",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_expression_atlas": {
+      "name": "evidence_expression_atlas",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_cancer_biomarkers": {
+      "name": "evidence_cancer_biomarkers",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_clingen": {
+      "name": "evidence_clingen",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_cosmic": {
+      "name": "evidence_cosmic",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_project_score": {
+      "name": "evidence_project_score",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_crispr_screens": {
+      "name": "evidence_crispr_screens",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_eva": {
+      "name": "evidence_eva",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_gene_burden": {
+      "name": "evidence_gene_burden",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_gene2phenotype": {
+      "name": "evidence_gene2phenotype",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_panel_app": {
+      "name": "evidence_panel_app",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_orphanet": {
+      "name": "evidence_orphanet",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_reactome": {
+      "name": "evidence_reactome",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_uniprot_literature": {
+      "name": "evidence_uniprot_literature",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_uniprot_variants": {
+      "name": "evidence_uniprot_variants",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_intogen": {
+      "name": "evidence_intogen",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_evidence_ppp": {
+      "name": "evidence_ppp",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_expression": {
+      "name": "expression",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_go": {
+      "name": "go",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_interaction": {
+      "name": "interaction",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_encode": {
+      "name": "encode",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_gwas": {
+      "name": "gwas",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_gwas_ppp": {
+      "name": "gwas_ppp",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_l2g": {
+      "name": "l2g",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_literature": {
+      "name": "literature",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_molqtl": {
+      "name": "molqtl",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_molqtl_ppp": {
+      "name": "molqtl_ppp",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_ontoma": {
+      "name": "ontoma",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_openfda": {
+      "name": "openfda",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_otar": {
+      "name": "otar",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_pharmacogenetics": {
+      "name": "pharmacogenetics",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_reactome": {
+      "name": "reactome",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_so": {
+      "name": "so",
+      "result": "success",
+      "started_run_at": "2026-04-27T20:19:15.565361Z",
+      "finished_run_at": "2026-04-27T20:19:20.196603Z",
+      "log": [],
+      "tasks": [
+        {
+          "name": "copy sequence ontology",
+          "result": "success",
+          "started_run_at": "2026-04-27T20:19:15.975915Z",
+          "finished_run_at": "2026-04-27T20:19:17.656798Z",
+          "started_validation_at": "2026-04-27T20:19:18.096783Z",
+          "finished_validation_at": "2026-04-27T20:19:19.027139Z",
+          "log": [
+            "2026-04-28 04:19:15.975 | W:54642  | INFO     | otter.task.task_reporter:start_run:44 - task copy sequence ontology started running",
+            "2026-04-28 04:19:15.976 | W:54642  | INFO     | otter.tasks.copy:run:43 - copying file from https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json to input/so/so.json",
+            "2026-04-28 04:19:15.976 | W:54642  | DEBUG    | otter.storage.synchronous.handle:_resolve:58 - location https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json is absolute, using as is",
+            "2026-04-28 04:19:15.976 | W:54642  | DEBUG    | otter.storage.synchronous.handle:_resolve:70 - location input/so/so.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/so/so.json",
+            "2026-04-28 04:19:17.656 | W:54642  | SUCCESS  | otter.task.task_reporter:finish_run:51 - task copy sequence ontology finished running: took 1.681s",
+            "2026-04-28 04:19:18.096 | W:54642  | INFO     | otter.task.task_reporter:start_validation:56 - task copy sequence ontology started validation",
+            "2026-04-28 04:19:18.096 | W:54642  | DEBUG    | otter.validators.file:exists:56 - checking if file exists: input/so/so.json",
+            "2026-04-28 04:19:18.097 | W:54642  | DEBUG    | otter.storage.synchronous.handle:_resolve:70 - location input/so/so.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/so/so.json",
+            "2026-04-28 04:19:18.097 | W:54642  | DEBUG    | otter.validators.file:size:141 - checking if https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json and input/so/so.json are the same size",
+            "2026-04-28 04:19:18.097 | W:54642  | DEBUG    | otter.storage.synchronous.handle:_resolve:58 - location https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json is absolute, using as is",
+            "2026-04-28 04:19:19.026 | W:54642  | DEBUG    | otter.storage.synchronous.handle:_resolve:70 - location input/so/so.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/so/so.json",
+            "2026-04-28 04:19:19.027 | W:54642  | SUCCESS  | otter.task.task_reporter:finish_validation:62 - task copy sequence ontology finished validation: took 0.930s",
+            "2026-04-28 04:19:19.027 | W:54642  | SUCCESS  | otter.task.task_reporter:finish_validation:63 - task copy sequence ontology completed: took 2.611s"
+          ],
+          "artifacts": [
+            {
+              "source": "https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json",
+              "destination": "/Users/apple/Desktop/Projects/opensource/pipeline_work/input/so/so.json"
+            }
+          ],
+          "failure_reason": null,
+          "attempts": [],
+          "run_elapsed": 1.680883,
+          "validation_elapsed": 0.930356,
+          "elapsed": 2.611239,
+          "run_elapsed": 1.680883,
+          "validation_elapsed": 0.930356,
+          "elapsed": 2.611239
+        }
+      ],
+      "artifacts": [
+        {
+          "source": "https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/Ontology_Files/so.json",
+          "destination": "/Users/apple/Desktop/Projects/opensource/pipeline_work/input/so/so.json"
+        }
+      ],
+      "failure_reason": null,
+      "elapsed": 4.631242
+    },
+    "pis_target": {
+      "name": "target",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_target_prioritisation": {
+      "name": "target_prioritisation",
+      "result": "pending",
+      "started_run_at": null,
+      "finished_run_at": null,
+      "log": [],
+      "tasks": [],
+      "artifacts": [],
+      "failure_reason": null,
+      "elapsed": null
+    },
+    "pis_retry_demo": {
+      "name": "retry_demo",
+      "result": "success",
+      "started_run_at": "2026-04-28T21:54:35.437710Z",
+      "finished_run_at": "2026-04-28T21:54:40.525398Z",
+      "log": [],
+      "tasks": [
+        {
+          "name": "copy flaky demo",
+          "result": "success",
+          "started_run_at": "2026-04-28T21:54:35.839624Z",
+          "finished_run_at": "2026-04-28T21:54:38.867247Z",
+          "started_validation_at": "2026-04-28T21:54:38.991522Z",
+          "finished_validation_at": "2026-04-28T21:54:39.000151Z",
+          "log": [
+            "2026-04-29 05:54:35.839 | W:73743  | DEBUG    | otter.step.worker:_call_unwrapped:211 - method=<bound method Copy.run of <otter.tasks.copy.Copy object at 0x111336d10>> wrapped_func=<function Copy.run at 0x11134c220> raw_func=<function Copy.run at 0x11134c040> method_name=run raw_name=run",
+            "2026-04-29 05:54:35.840 | W:73743  | INFO     | otter.tasks.copy:run:43 - copying file from http://127.0.0.1:8000/flaky.json to input/retry_demo/flaky.json",
+            "2026-04-29 05:54:35.840 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:72 - location http://127.0.0.1:8000/flaky.json is absolute, using as is",
+            "2026-04-29 05:54:35.840 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:84 - location input/retry_demo/flaky.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json",
+            "2026-04-29 05:54:35.848 | W:73743  | WARNING  | otter.step.worker:execute_task:131 - task=copy flaky demo phase=run attempt=1/3 retryable=True next_delay_s=1 error=HTTPError: 503 Server Error: Service Unavailable for url: http://127.0.0.1:8000/flaky.json",
+            "2026-04-29 05:54:36.851 | W:73743  | DEBUG    | otter.step.worker:_call_unwrapped:211 - method=<bound method Copy.run of <otter.tasks.copy.Copy object at 0x111336d10>> wrapped_func=<function Copy.run at 0x11134c220> raw_func=<function Copy.run at 0x11134c040> method_name=run raw_name=run",
+            "2026-04-29 05:54:36.851 | W:73743  | INFO     | otter.tasks.copy:run:43 - copying file from http://127.0.0.1:8000/flaky.json to input/retry_demo/flaky.json",
+            "2026-04-29 05:54:36.851 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:72 - location http://127.0.0.1:8000/flaky.json is absolute, using as is",
+            "2026-04-29 05:54:36.851 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:84 - location input/retry_demo/flaky.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json",
+            "2026-04-29 05:54:36.854 | W:73743  | WARNING  | otter.step.worker:execute_task:131 - task=copy flaky demo phase=run attempt=2/3 retryable=True next_delay_s=2 error=HTTPError: 503 Server Error: Service Unavailable for url: http://127.0.0.1:8000/flaky.json",
+            "2026-04-29 05:54:38.859 | W:73743  | DEBUG    | otter.step.worker:_call_unwrapped:211 - method=<bound method Copy.run of <otter.tasks.copy.Copy object at 0x111336d10>> wrapped_func=<function Copy.run at 0x11134c220> raw_func=<function Copy.run at 0x11134c040> method_name=run raw_name=run",
+            "2026-04-29 05:54:38.860 | W:73743  | INFO     | otter.tasks.copy:run:43 - copying file from http://127.0.0.1:8000/flaky.json to input/retry_demo/flaky.json",
+            "2026-04-29 05:54:38.860 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:72 - location http://127.0.0.1:8000/flaky.json is absolute, using as is",
+            "2026-04-29 05:54:38.861 | W:73743  | DEBUG    | otter.storage.synchronous.handle:_resolve:84 - location input/retry_demo/flaky.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json",
+            "2026-04-29 05:54:38.867 | W:73743  | SUCCESS  | otter.step.worker:execute_task:107 - task=copy flaky demo phase=run attempt=3/3 event=success",
+            "2026-04-29 05:54:38.992 | W:73742  | DEBUG    | otter.step.worker:_call_unwrapped:211 - method=<bound method Copy.validate of <otter.tasks.copy.Copy object at 0x11a13b3d0>> wrapped_func=<function Copy.validate at 0x11a14c360> raw_func=<function Copy.validate at 0x11a14c180> method_name=validate raw_name=validate",
+            "2026-04-29 05:54:38.992 | W:73742  | DEBUG    | otter.validators.file:exists:56 - checking if file exists: input/retry_demo/flaky.json",
+            "2026-04-29 05:54:38.992 | W:73742  | DEBUG    | otter.storage.synchronous.handle:_resolve:84 - location input/retry_demo/flaky.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json",
+            "2026-04-29 05:54:38.992 | W:73742  | DEBUG    | otter.validators.file:size:141 - checking if http://127.0.0.1:8000/flaky.json and input/retry_demo/flaky.json are the same size",
+            "2026-04-29 05:54:38.992 | W:73742  | DEBUG    | otter.storage.synchronous.handle:_resolve:72 - location http://127.0.0.1:8000/flaky.json is absolute, using as is",
+            "2026-04-29 05:54:38.999 | W:73742  | DEBUG    | otter.storage.synchronous.handle:_resolve:84 - location input/retry_demo/flaky.json resolved to local /Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json",
+            "2026-04-29 05:54:39.000 | W:73742  | SUCCESS  | otter.step.worker:execute_task:107 - task=copy flaky demo phase=validate attempt=1/3 event=success"
+          ],
+          "artifacts": [
+            {
+              "source": "http://127.0.0.1:8000/flaky.json",
+              "destination": "/Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json"
+            }
+          ],
+          "failure_reason": null,
+          "attempts": [
+            {
+              "phase": "run",
+              "attempt": 1,
+              "result": "failed",
+              "retryable": true,
+              "error_type": "HTTPError",
+              "error_message": "503 Server Error: Service Unavailable for url: http://127.0.0.1:8000/flaky.json",
+              "next_delay_seconds": 1
+            },
+            {
+              "phase": "run",
+              "attempt": 2,
+              "result": "failed",
+              "retryable": true,
+              "error_type": "HTTPError",
+              "error_message": "503 Server Error: Service Unavailable for url: http://127.0.0.1:8000/flaky.json",
+              "next_delay_seconds": 2
+            },
+            {
+              "phase": "run",
+              "attempt": 3,
+              "result": "success"
+            },
+            {
+              "phase": "validate",
+              "attempt": 1,
+              "result": "success"
+            }
+          ],
+          "run_elapsed": 3.027623,
+          "validation_elapsed": 0.008629,
+          "elapsed": 3.036252
+        }
+      ],
+      "artifacts": [
+        {
+          "source": "http://127.0.0.1:8000/flaky.json",
+          "destination": "/Users/apple/Desktop/Projects/opensource/pipeline_work/input/retry_demo/flaky.json"
+        }
+      ],
+      "failure_reason": null,
+      "elapsed": 5.087688
+    }
+  }
+}
