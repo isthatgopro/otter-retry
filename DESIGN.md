@@ -247,4 +247,4 @@ sequenceDiagram
 
 ## Demo
 
-A small prototype, demo setup, and sample outputs are described in [OUTPUT.md](pis/OUTPUT.md).
+A small prototype, demo setup, and sample outputs are described in [OUTPUT.md](https://github.com/isthatgopro/pis/blob/main/OUTPUT.md).
