@@ -1,0 +1,6 @@
+[submodule "otter"]
+	path = otter
+	url = https://github.com/isthatgopro/otter.git
+[submodule "pis"]
+	path = pis
+	url = https://github.com/isthatgopro/pis.git
